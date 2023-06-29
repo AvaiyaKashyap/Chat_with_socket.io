@@ -1,16 +1,4 @@
-# socket_io_test
+Preview: 
 
-A new Flutter project.
+![image](https://github.com/AvaiyaKashyap/Chat_with_socket.io/assets/88942744/de55d0b4-6c93-4805-a297-fefca7db839d)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
